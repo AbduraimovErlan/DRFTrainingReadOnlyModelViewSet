@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'ReadOnlyModelViewSet1',
     'ReadOnlyModelViewSet2',
+    'ReadOnlyModelViewSet3',
 ]
 
 MIDDLEWARE = [
