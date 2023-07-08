@@ -10,4 +10,5 @@ urlpatterns = [
     path('api/v1/', include('ReadOnlyModelViewSet2.urls')),
     path('api/v1/', include('ReadOnlyModelViewSet3.urls')),
     path('api/v1/', include('ReadOnlyModelViewSet4.urls')),
+    path('api/v1/', include('ReadOnlyModelViewSet5.urls')),
 ]
