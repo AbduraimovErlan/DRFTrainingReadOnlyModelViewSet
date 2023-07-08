@@ -1,3 +1,8 @@
 from django.contrib import admin
+from ReadOnlyModelViewSet2.models import Book2
 
-# Register your models here.
+
+
+admin.site.register(Book2)
+
+
