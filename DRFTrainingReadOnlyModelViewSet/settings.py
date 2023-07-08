@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'ReadOnlyModelViewSet1',
     'ReadOnlyModelViewSet2',
     'ReadOnlyModelViewSet3',
+    'ReadOnlyModelViewSet4',
 ]
 
 MIDDLEWARE = [
